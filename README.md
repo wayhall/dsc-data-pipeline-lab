@@ -1,4 +1,4 @@
-# Data Pipline Lab
+# Data Pipeline Lab
 
 ### Objectives
 * To assess a situation on whether to move a legacy system to a cloud system
