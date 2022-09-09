@@ -1,7 +1,7 @@
 # Data Pipline Lab
 
 ### Objectives
-- To create a mock pipeline based on the business model that students choose
+- To assess a situation on whether to move a legacy system to a cloud system
 
 ### Introduction
 
