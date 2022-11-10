@@ -1,9 +1,9 @@
 # Data Pipeline Lab
 
-### Objectives
+## Objectives
 * To assess a situation on whether to move a legacy system to a cloud system
 
-### Introduction
+## Introduction
 
 Based on the previous readings, we will simulate how we can best determine
 
